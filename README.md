@@ -73,9 +73,9 @@ I’m Abdul Salam, a passionate Web & App Developer and a final-year Computer Sc
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=salamcodes&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=salamcodes&theme=onedark&column=7&margin-w=15&margin-h=15)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salamcodes&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamcodes&layout=compact&theme=radical&langs_count=10)
 
