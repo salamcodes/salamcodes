@@ -22,7 +22,7 @@ I’m Abdul Salam, a passionate Web & App Developer and a final-year Computer Sc
 |---|---|---|
 | University of Balochistan | Bachelor's | 2022-12 - 2026-12 |
 
-### Bachelor's in Computer Science
+### Bachelor's in Information Technology
 *University of Balochistan*
 
 ## 📞 Contact & Links
